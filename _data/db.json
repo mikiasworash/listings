@@ -3,38 +3,38 @@
     {
       "id": 1,
       "img_source": "https://source.unsplash.com/a-red-jacket-hanging-on-a-clothes-rack-MR9WvDglWyA",
-      "title": "Sony Noise-Cancelling Headphones",
-      "location": "New Hapshire",
+      "title": "A Red Coat Must-Have",
+      "location": "New Hampshire",
       "delivery": "Free Shipping",
-      "price": "849.00",
+      "price": "449.00",
       "deadline": "17 days"
     },
     {
       "id": 2,
       "img_source": "https://source.unsplash.com/a-woman-in-a-hat-and-coat-standing-on-a-ledge-ix_4ugdKVzc",
-      "title": "Sony Noise-Cancelling Headphones",
-      "location": "New Hapshire",
+      "title": "White Coat Essentials",
+      "location": "New Hampshire",
       "delivery": "Free Shipping",
-      "price": "849.00",
-      "deadline": "17 days"
+      "price": "349.00",
+      "deadline": "10 days"
     },
     {
       "id": 3,
       "img_source": "https://source.unsplash.com/black-chair-on-white-snow-3neSwyntbQ8",
-      "title": "Sony Noise-Cancelling Headphones",
-      "location": "New Hapshire",
+      "title": "Chic Chair Comfort",
+      "location": "New Hampshire",
       "delivery": "Free Shipping",
-      "price": "849.00",
-      "deadline": "17 days"
+      "price": "299.00",
+      "deadline": "5 days"
     },
     {
       "id": 4,
       "img_source": "https://source.unsplash.com/teal-3-door-hatchback-on-road-fwYZ3B_QQco",
-      "title": "Sony Noise-Cancelling Headphones",
-      "location": "New Hapshire",
+      "title": "Drive in Luxury",
+      "location": "New Hampshire",
       "delivery": "Free Shipping",
-      "price": "849.00",
-      "deadline": "17 days"
+      "price": "5999.00",
+      "deadline": "21 days"
     }
   ]
 }

@@ -1,4 +1,4 @@
-import Listings from "../components/ProductLIst";
+import Listings from "../components/ProductList";
 
 const Home = () => {
   return (
